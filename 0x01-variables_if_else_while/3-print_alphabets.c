@@ -10,19 +10,19 @@
 
 int main(void)
 {
-char ch = a;
-char CH = A;
+char ch = 'a';
+char CH = 'A';
 
-while (ch <= z)
+while (ch <= 'z')
 {
 putchar(ch);
 ++ch;
 }
-while (CH <= Z)
+while (CH <= 'Z')
 {
 putchar(CH);
 ++CH;
 }
-putchar(n);
+putchar('\n');
 return (0);
 }
