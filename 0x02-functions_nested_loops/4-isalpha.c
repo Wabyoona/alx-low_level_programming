@@ -2,7 +2,7 @@
 
 /**
 * _isalpha - check a letter
-*@c:letter u other 
+*@c:letter u other
 *
 *Return: 1 if is letter 0 others
 */
