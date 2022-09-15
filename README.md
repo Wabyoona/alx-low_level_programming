@@ -1,1 +1,1 @@
-0x02-functions_nested_loops tasks
+0x03-debugging tasks
