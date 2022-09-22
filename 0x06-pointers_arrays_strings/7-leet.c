@@ -21,3 +21,4 @@ str[indx1] = indx2 + '0'
 indx1++;
 return (str);
 }
+}
