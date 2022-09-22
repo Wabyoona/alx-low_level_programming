@@ -20,7 +20,7 @@ char *leet(char *str)
 
 						{
 
-									for (indx2 = 0; indx2 <= 7; indx2++)
+								for (indx2 = 0; indx2 <= 7; indx2++)
 
 												{
 
