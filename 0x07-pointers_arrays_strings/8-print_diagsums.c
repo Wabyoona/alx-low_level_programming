@@ -3,7 +3,7 @@
 
 /**
  * print_diagsums - Prints the sum of the two diagonals
- *                  of a square matrix of integers.
+ * of a square matrix of integers.
  * @a: The matrix of integers.
  * @size: The size of the matrix.
  */
@@ -14,7 +14,8 @@ int index, sum1 = 0, sum2 = 0;
 for (index = 0; index < size; index++)
 {
 sum1 += a[index];
-a += size;}
+a += size;
+}
 a -= size;
 for (index = 0; index < size; index++)
 {
