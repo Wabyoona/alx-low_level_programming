@@ -79,5 +79,5 @@ strings[w][l] = str[index++];
 strings[w][l] = '\0';
 }
 strings[w] = NULL;
-return (strings);
+return (strings)
 }
