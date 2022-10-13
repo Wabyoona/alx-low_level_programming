@@ -8,9 +8,10 @@
  * Return: If n == 0 - 0.
  *         Otherwise - the sum of all parameters.
  */
+
 int sum_them_all(const unsigned int n, ...)
 {
-va_list nums;
+va_list num;
 unsigned int index, sum = 0;
 va_start(nums, n);
 for (index = 0; index < n; index++)
